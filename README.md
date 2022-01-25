@@ -11,7 +11,7 @@
 [![Package Issue](https://img.shields.io/github/issues/rickypid/cowsay)](https://github.com/rickypid/cowsay/issues)
 ![Package License](https://img.shields.io/github/license/rickypid/cowsay)
 
-Simple library to print message in cow balloon.
+Simple library to print message in cow balloon, it is possible change figure and max line text length.
 
 ![Image](https://github.com/rickypid/cowsay/blob/master/doc/.media/example.jpg?raw=true)
 
