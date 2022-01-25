@@ -2,6 +2,8 @@ name: cowsay
 description: Simple library to print message in cow balloon.
 version: 0.0.1-alpha
 
+repository: https://github.com/rickypid/cowsay
+
 environment:
   sdk: '>=2.15.1 <3.0.0'
 
