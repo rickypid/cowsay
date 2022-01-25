@@ -1,5 +1,13 @@
 # Cowsay
 
+[![Pub Package](https://img.shields.io/pub/v/cowsay.svg?style=flat-square)](https://pub.dartlang.org/packages/cowsay)
+[![likes](https://badges.bar/cowsay/likes)](https://pub.dev/packages/cowsay/score)
+[![popularity](https://badges.bar/cowsay/popularity)](https://pub.dev/packages/cowsay/score)
+[![pub points](https://badges.bar/cowsay/pub%20points)](https://pub.dev/packages/cowsay/score)
+
+[![Package Issue](https://img.shields.io/github/issues/rickypid/cowsay)](https://github.com/rickypid/cowsay/issues)
+![Package License](https://img.shields.io/github/license/rickypid/cowsay)
+
 Simple library to print message in cow balloon.
 
 ![Image](https://github.com/rickypid/cowsay/blob/master/doc/.media/example.jpg?raw=true)
@@ -41,14 +49,14 @@ run following command:
 With Dart:
 
 ```bash
-dart pub add flutter_cowsay
+dart pub add cowsay
 
 ```
 
 With Flutter:
 
 ```bash
-flutter pub add flutter_cowsay
+flutter pub add cowsay
 
 ```
 
