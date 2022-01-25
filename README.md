@@ -5,6 +5,9 @@
 [![popularity](https://badges.bar/cowsay/popularity)](https://pub.dev/packages/cowsay/score)
 [![pub points](https://badges.bar/cowsay/pub%20points)](https://pub.dev/packages/cowsay/score)
 
+[![Test CI](https://github.com/rickypid/cowsay/actions/workflows/test.yml/badge.svg)](https://github.com/rickypid/cowsay/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/rickypid/cowsay/branch/master/graph/badge.svg?token=Z65KEB9SAX)](https://codecov.io/gh/rickypid/cowsay)
+
 [![Package Issue](https://img.shields.io/github/issues/rickypid/cowsay)](https://github.com/rickypid/cowsay/issues)
 ![Package License](https://img.shields.io/github/license/rickypid/cowsay)
 
