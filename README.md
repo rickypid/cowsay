@@ -2,6 +2,8 @@
 
 Simple library to print message in cow balloon.
 
+![Image](https://github.com/rickypid/cowsay/blob/master/doc/.media/example.jpg?raw=true)
+
 ## Getting started
 
 ### Installation
