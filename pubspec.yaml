@@ -1,6 +1,6 @@
 name: cowsay
 description: Simple library to print message in cow balloon, it is possible change figure and max line text length.
-version: 0.0.2-alpha
+version: 0.0.3-alpha
 
 repository: https://github.com/rickypid/cowsay
 
