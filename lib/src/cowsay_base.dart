@@ -1,3 +1,4 @@
+// Project imports:
 import 'package:cowsay/src/template/figure_type.dart';
 
 /// [Cowsay] class
