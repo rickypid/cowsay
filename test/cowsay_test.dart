@@ -1,6 +1,9 @@
+// Package imports:
+import 'package:test/test.dart';
+
+// Project imports:
 import 'package:cowsay/cowsay.dart';
 import 'package:cowsay/src/template/figure_type.dart';
-import 'package:test/test.dart';
 
 const String helloWord = 'Hello word!';
 const String helloWordExpect =
